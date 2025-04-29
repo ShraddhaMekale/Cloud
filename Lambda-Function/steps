@@ -1,0 +1,7 @@
+## STEPS TO CRAETE LAMBDA FUNCTION USING S3 AND CLOUDWATCH LOGS
+
+1.  Create s3 bucket
+2. Craete IAM role with the policy of awlambdabasicexecutionrole & awslambdaexecute
+3. Create Function 
+4. Add trigger
+5. Test
